@@ -12,7 +12,7 @@
 
 <img alt="JavaScript" title="JavaScript" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
 <img alt="TypeScript" title="TypeScript" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
-<img alt="Python" title="Python" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />&nbsp;&nbsp;
+<img alt="Python" title="Python" width="40px" height="40px" src="https://api.iconify.design/logos:python.svg" />&nbsp;&nbsp;
 <img alt="React" title="React" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;
 <img alt="Next.js" title="Next.js" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;
 <img alt="Node.js" title="Node.js" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
