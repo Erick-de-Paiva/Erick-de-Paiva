@@ -1,11 +1,11 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erick-de-paiva&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=STARS,COMMITS,PRS,ISSUES,CONTR_TO" alt="GitHub Stats" />
+  <img src="https://gprm.itsvg.in/api/cards/stats?username=erick-de-paiva&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-de-paiva&layout=compact&theme=radical&langs_count=8" alt="Top Langs" />
+  <img src="https://gprm.itsvg.in/api/cards/langs?username=erick-de-paiva&theme=radical&layout=compact" alt="Top Langs" />
 </p>
 
 ---
