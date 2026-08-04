@@ -1,33 +1,28 @@
-### 📊 Estatísticas do GitHub
+# Erick de Paiva
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/stats?username=erick-de-paiva&theme=radical" alt="GitHub Stats" />
-</p>
+<code>Desenvolvedor FullStack</code>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/top-languages?username=erick-de-paiva&theme=radical" alt="Top Langs" />
-</p>
+<br>
+
+📫 Como me encontrar: [paiva.erick2001@gmail.com](mailto:paiva.erick2001@gmail.com)
 
 ---
 
-### 🛠️ Minhas Tecnologias e Ferramentas
+### 🛠️ Minhas Linguagens e Tecnologias
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="Git" />
-</div>
+<img alt="JavaScript" title="JavaScript" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+<img alt="TypeScript" title="TypeScript" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+<img alt="Python" title="Python" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />&nbsp;&nbsp;
+<img alt="React" title="React" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;
+<img alt="Next.js" title="Next.js" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;
+<img alt="Node.js" title="Node.js" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
+<img alt="Git" title="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
+<img alt="GitHub" title="GitHub" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="filter: brightness(0) invert(1);" />
 
 ---
 
 ### 🔗 Conecte-se comigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/erick-paiva-1b190437a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/seu-usuario-linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
